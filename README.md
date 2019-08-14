@@ -13,4 +13,4 @@ De studiat Rise() si Fall() de la PWMIn pentru a elimina citirile aberante.
 Adaugata comanda SendMove().  
 
 Contains: Motor, Servo, PWMIn, PWMOut, Encoder, Intrerupere.    
-_TBA: Motor.h, Senzor de obiecte, Portare pe Nucleo 401RE_   
+_TBA: Motor.h, Senzor de obiecte, Implementare functionare encoder(posibil GPIO), Portare pe Nucleo 401RE_   
